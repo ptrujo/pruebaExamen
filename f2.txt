@@ -1,2 +1,6 @@
 fichero 2
+<<<<<<< HEAD
 modificado en ventas f2.txt
+=======
+cambio anadido f2 rama web
+>>>>>>> web
