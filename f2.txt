@@ -1,1 +1,2 @@
 fichero 2
+modificado en ventas f2.txt
